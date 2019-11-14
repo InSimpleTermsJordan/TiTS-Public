@@ -425,7 +425,7 @@ public function thyvaraTalkDrink():void
 	output("<i>“What’s in those flasks? And how much of that stuff do you have?”</i> She gives you a quick look, before handing you her canister.");
 	output("\n\n<i>“Want to try some?”</i>");
 	output("\n\n<i>“I’d rather know what it is, first.”</i> She shrugs, takes a swig and puts the lid on it.");
-	output("\n\n<i>“It’s a kind of staple for matisar. Has a lot of fatty oils in it that we need, and it’s chock full of other nutrients we can use. I’ve got enough of this stuff to last me a year or two. Get it whenever other matisar come through.”</i> She kick’s the bag at her feet.");
+	output("\n\n<i>“It’s a kind of staple for matisar. Has a lot of fatty oils in it that we need, and it’s chock full of other nutrients we can use. I’ve got enough of this stuff to last me a year or two. Get it whenever other matisar come through.”</i> She kicks the bag at her feet.");
 	output("\n\n<i>“So, what’s in it?”</i> She looks at you uncomfortably for a moment before answering.");
 	output("\n\n<i>“Well, the primary ingredient is, uh... matisar semen.”</i> When she catches your look she quickly explains, <i>“matisar males store most of their fat reserves in their abdomen, where they also keep the... uh, testicles. So, it kind of just gets mixed in and, well...”</i> she holds up her flask <i>“makes it a good base for staple foods. A well fed male matisar can produce a </i>lot<i> of semen, so we just make use of it when people start jacking off.”</i>");
 	if (pc.isBimbo()) output("\n\n<i>“That sounds really yummy. Ever used it to get pregnant?”</i>");
